@@ -1,0 +1,62 @@
+{
+    "metric": [
+        {
+            "name": "to-mm",
+            "function": "toMM"
+        },
+        {
+            "name": "to-cm",
+            "function": "toCM"
+        },
+        {
+            "name": "to-dm",
+            "function": "toDM"
+        },
+        {
+            "name": "to-m",
+            "function": "toM"
+        },
+        {
+            "name": "to-dam",
+            "function": "toDAM"
+        },
+        {
+            "name": "to-hm",
+            "function": "toHM"
+        },
+        {
+            "name": "to-km",
+            "function": "toKM"
+        }
+    ],
+    "imperial": [
+        {
+            "name": "to-thou",
+            "function": "toThou"
+        },
+        {
+            "name": "to-inch",
+            "function": "toInch"
+        },
+        {
+            "name": "to-foot",
+            "function": "toFoot"
+        },
+        {
+            "name": "to-yard",
+            "function": "toYard"
+        },
+        {
+            "name": "to-chain",
+            "function": "toChain"
+        },
+        {
+            "name": "to-furlong",
+            "function": "toFurlong"
+        },
+        {
+            "name": "to-mile",
+            "function": "toMile"
+        }
+    ]
+}

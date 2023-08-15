@@ -1,0 +1,54 @@
+{
+    "metric": [
+        {
+            "name": "to-ml",
+            "function": "toML"
+        },
+        {
+            "name": "to-cl",
+            "function": "toCL"
+        },
+        {
+            "name": "to-dl",
+            "function": "toDL"
+        },
+        {
+            "name": "to-l",
+            "function": "toL"
+        },
+        {
+            "name": "to-dal",
+            "function": "toDAL"
+        },
+        {
+            "name": "to-hl",
+            "function": "toHL"
+        },
+        {
+            "name": "to-kl",
+            "function": "toKL"
+        }
+    ],
+    "imperial": [
+        {
+            "name": "to-gallon",
+            "function": "toGallon"
+        },
+        {
+            "name": "to-quart",
+            "function": "toQuart"
+        },
+        {
+            "name": "to-pint",
+            "function": "toPint"
+        },
+        {
+            "name": "to-cup",
+            "function": "toCup"
+        },
+        {
+            "name": "to-ounce",
+            "function": "toOunce"
+        }
+    ]
+}

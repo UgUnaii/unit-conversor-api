@@ -1,0 +1,50 @@
+{
+    "metric": [
+        {
+            "name": "to-mg",
+            "function": "toMG"
+        },
+        {
+            "name": "to-cg",
+            "function": "toCG"
+        },
+        {
+            "name": "to-dg",
+            "function": "toDG"
+        },
+        {
+            "name": "to-g",
+            "function": "toG"
+        },
+        {
+            "name": "to-dag",
+            "function": "toDAG"
+        },
+        {
+            "name": "to-hg",
+            "function": "toHG"
+        },
+        {
+            "name": "to-kg",
+            "function": "toKG"
+        }
+    ],
+    "imperial": [
+        {
+            "name": "to-grain",
+            "function": "toGrain"
+        },
+        {
+            "name": "to-dram",
+            "function": "toDram"
+        },
+        {
+            "name": "to-ounce",
+            "function": "toOunce"
+        },
+        {
+            "name": "to-pound",
+            "function": "toPound"
+        }
+    ]
+}
